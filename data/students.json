@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "yearGraduated": 2022,
+      "imageUrl": "/graduation1.png",
+      "github": "https://github.com/alicejohnson",
+      "developerPortfolio": "https://alicejohnson.dev"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "yearGraduated": 2021,
+      "imageUrl": "/graduation2.png",
+      "github": "https://github.com/bobsmith",
+      "developerPortfolio": "https://bobsmith.dev"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Davis",
+      "yearGraduated": 2023,
+      "imageUrl": "/graduation3.png",
+      "github": "https://github.com/charliedavis",
+      "developerPortfolio": "https://charliedavis.dev"
+    },
+    {
+      "id": 4,
+      "name": "David Thompson",
+      "yearGraduated": 2020,
+      "imageUrl": "/graduation4.png",
+      "github": "https://github.com/davidthompson",
+      "developerPortfolio": "https://davidthompson.dev"
+    },
+    {
+      "id": 5,
+      "name": "Eve Martinez",
+      "yearGraduated": 2022,
+      "imageUrl": "/graduation4.png",
+      "github": "https://github.com/evemartinez",
+      "developerPortfolio": "https://evemartinez.dev"
+    }
+]
